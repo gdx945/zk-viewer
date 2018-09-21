@@ -1,0 +1,26 @@
+{
+  "172.16.22.138:2181": {
+    "addr": "172.16.22.138:2181",
+    "name": "开发环境",
+    "normalRegistry": ["CUSTVIEW_REGISTRY", "CUST_REGISTRY", "CUSTC_REGISTRY", "GLOBAL_REGISTRY", "MARKET_REGISTRY", "ORDER_REGISTRY"],
+    "isDefault": true
+  },
+  "172.18.232.139:2181": {
+    "addr": "172.18.232.139:2181",
+    "name": "测试环境",
+    "normalRegistry": ["CUSTVIEW_REGISTRY", "CUST_REGISTRY", "CUSTC_REGISTRY", "GLOBAL_REGISTRY", "MARKET_REGISTRY", "ORDER_REGISTRY"],
+    "isDefault": true
+  },
+  "172.16.80.41:2181": {
+    "addr": "172.16.80.41:2181",
+    "name": "验收A环境",
+    "normalRegistry": ["CUSTVIEW_REGISTRY", "CUST_REGISTRY", "CUSTC_REGISTRY", "GLOBAL_REGISTRY", "MARKET_REGISTRY", "ORDER_REGISTRY"],
+    "isDefault": true
+  },
+  "172.16.80.45:2181": {
+    "addr": "172.16.80.45:2181",
+    "name": "验收B环境",
+    "normalRegistry": ["CUSTVIEW_REGISTRY", "CUST_REGISTRY", "CUSTC_REGISTRY", "GLOBAL_REGISTRY", "MARKET_REGISTRY", "ORDER_REGISTRY"],
+    "isDefault": true
+  }
+}
